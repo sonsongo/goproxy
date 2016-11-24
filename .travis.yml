@@ -19,6 +19,8 @@ addons:
     packages:
       - p7zip-full
       - lftp
+      - gcc
+      - gcc-arm-linux-gnueabihf
 
 notifications:
   webhooks:
